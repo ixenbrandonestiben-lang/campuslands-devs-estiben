@@ -1,4 +1,5 @@
 # Resolución: Merge de Ranking de Pingpong
+**Autor** Estiben Ixen
 **Fecha:** julio 2026
 **Ejercicio:** 12
 
